@@ -7,22 +7,16 @@ A React-based virtual storefront that allows users (sellers) to add products wit
 ## 🚀 Features
 
 - ✅ Add new products using a form (title, price, category, image URL)
-- ✅ Display all products in a clean grid layout (Product Cards)
+- ✅ Display all products in a grid layout (Product Cards)
 - ✅ Filter products by category
 - ✅ Sort products by price (Low-to-High and High-to-Low)
-- ✅ Responsive design for mobile and desktop
-- ✅ (Optional) Save products in `localStorage` so they persist on reload
-
 ---
 
 ## 🛠️ Tech Stack
 
 - **React.js** (Functional Components + Hooks)
 - **useState**, **useEffect**
-- **CSS / Tailwind CSS**
-- **localStorage** (optional)
-- [Vite](https://vitejs.dev/) or Create React App (CRA)
-
+- **CSS**
 ---
 
 ## 📦 Getting Started

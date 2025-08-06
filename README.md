@@ -1,7 +1,6 @@
 # 🛍️ CartCraft – Virtual Storefront
 
-A React-based virtual storefront that allows users (sellers) to add products with a name, price, category, and image. Products are displayed in a responsive, filterable, and sortable catalog.
-
+A React-based virtual storefront that allows users (sellers) to add products with a name, price, category, and image. 
 ---
 
 ## 🚀 Features
